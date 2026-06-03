@@ -28,7 +28,7 @@ This script:
 ## Usage
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/JOUW-GEBRUIKERSNAAM/change-ip-ubuntu/refs/heads/main/ip-change.sh -o ip-change.sh
+curl -fsSL https://raw.githubusercontent.com/ivoryvanboes2004-source/ip-change/refs/heads/main/ip-change.sh -o ip-change.sh
 chmod +x ip-change.sh
 sudo ./ip-change.sh
 ```
